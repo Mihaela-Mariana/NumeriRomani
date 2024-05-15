@@ -1,0 +1,17 @@
+<module name="BooleanExpressionComplexity" />
+<module name="CyclomaticComplexity" />
+<module name="FileLength" />
+<module name="LineLength" />
+<module name="MethodLength" />
+<module name="EmptyCatchBlock" />
+<module name="FileTabCharacter" />
+<module name="AvoidStarImport" />
+<module name="IllegalImport" />
+<module name="NeedBraces" />
+<module name="Header">
+    <property name="headerFile" value="
+        ////////////////////////////////////////////////////////////////////
+        // [Mario] [De Pasquale] [2076433]
+        // [Mihaela Mariana] [Romascu] [2079726]
+        ////////////////////////////////////////////////////////////////////" />
+</module>
