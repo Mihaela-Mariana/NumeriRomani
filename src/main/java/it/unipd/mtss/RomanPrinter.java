@@ -7,6 +7,6 @@ public class RomanPrinter {
     
     private static String printAsciiArt(String romanNumber) {
         //TODO
-        return null;
+        return "";
     }
 }
